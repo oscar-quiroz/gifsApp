@@ -1,0 +1,12 @@
+.img-perfil {
+    background-image: url("../../../assets/OSCAR_ICON.svg");
+    background-repeat: no-repeat;
+    transition: all 0.2s;
+}
+
+.img-perfil:hover {
+    transition: all 0.2s;
+    transform: scale(1.2, 1.2);
+    background-image: url("../../../assets/OSCAR_ICON2.svg");
+    cursor: pointer;
+}
