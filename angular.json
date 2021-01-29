@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gifsApp"
+    }
+  },
+  "defaultProject": "gifsApp",
+  "cli": {
+    "analytics": "5ed906cc-9101-4c0f-8606-4f48d26abb4b"
+  }
 }
