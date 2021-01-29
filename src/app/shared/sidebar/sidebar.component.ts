@@ -16,6 +16,8 @@ get historial() {
 
   constructor( private gifsService: GifsService) { }
 
-
+buscar(arg: string){
+  this.gifsService.buscarGifs(arg);
+}
 
 }
